@@ -1,0 +1,28 @@
+{
+  "name": "ng2-meditor",
+  "version": "1.0.0",
+  "description": "Medium Editor for Angular2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "medium",
+    "editor",
+    "angular2"
+  ],
+  "author": "Quang <quang.astronaut@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "medium-editor": "^5.21.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astronaut1712/ng2-medium-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/astronaut1712/ng2-medium-editor/issues"
+  },
+  "homepage": "https://github.com/astronaut1712/ng2-medium-editor#readme"
+}
