@@ -13,7 +13,7 @@ In your component:
 
 ```typescript
 ...
-import { MediumEditorComponent } from './medium-editor.component';
+import { MediumEditorComponent } from 'ng2-meditor';
 
 @Component({
     selector: 'my-app',
